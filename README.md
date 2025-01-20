@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer | Graduate of 2024</h3>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://octodex.github.com/baracktocat/)" width="600" height="300" alt="coding gif" />
+  <img src="https://octodex.github.com/baracktocat/" width="600" height="300" alt="coding gif" />
 </div>
 
 
