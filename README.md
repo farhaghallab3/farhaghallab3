@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer | Graduate of 2024</h3>
 
 <div align="center">
-  <img src="https://lottiefiles.com/free-animation/software-development-scene-6Vo2oGKPwO" width="300" height="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47b4ie392g81wcml079tsl0tybz9ynmlfn46ox1f14&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" alt="coding gif" />
 </div>
 
 
