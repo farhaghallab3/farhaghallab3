@@ -2,8 +2,7 @@
 <h3 align="center">Junior Software Developer | Graduate of 2024</h3>
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/b0ce50ae-f438-46f7-a2d8-a0e1b39e3934)
-" width="600" height="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611497rwhc8m432yqrjjam6gktcyo79jktp6vc5jz86&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300" alt="coding gif" />
 </div>
 
 
