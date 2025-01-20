@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer | Graduate of 2024</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e475plvcg7ik5e2ozkbt76f7pbbwupkelaacja6xs27&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" alt="coding gif" />
+  <img src="https://tenor.com/jZSx6chWoFI.gif" width="300" height="300" alt="coding gif" />
 </div>
 
 
