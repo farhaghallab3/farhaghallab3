@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋! I'm Farha Ghallab</h1>
 <h3 align="center">Junior Software Developer | Graduate of 2024</h3>
 
----
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhaghallab3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhaghallab3&layout=compact&theme=dracula&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
----
+
 
 ### 🛠️ Skills
 
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
 </div>
 
----
+
 
 ### 🌐 Connect with Me
 
@@ -43,5 +43,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
   </a>
 </div>
-
----
