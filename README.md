@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer | Graduate of 2024</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="600" height="300" alt="girl coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="coding gif" />
 </div>
 
 
@@ -19,7 +19,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhaghallab3&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhaghallab3&theme=radical" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaghallab3&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
