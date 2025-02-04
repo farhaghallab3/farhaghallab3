@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🌟 Passionate about building user-friendly applications.
-- 🌍 Exploring **Flutter**, **React**, and backend technologies.
+- 🌍 Exploring **Flutter**, **web**, and backend technologies.
 - 📚 Always learning and growing as a software developer.
 
 
