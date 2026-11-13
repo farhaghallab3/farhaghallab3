@@ -1,30 +1,25 @@
+
 <p align="center">
   <img src="./assets/github-header-preview.png" alt="Farha Ghallab — Full-Stack Developer" width="100%" />
 </p>
-<div align="center">
 
-
-Building software that works — from backend systems to modern web experiences.
-
-`Python` &nbsp; `Django` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `PostgreSQL`
-
-[Portfolio](https://farhaportofolio.vercel.app) &nbsp; / &nbsp;
-[LinkedIn](https://eg.linkedin.com/in/farhaghallab) &nbsp; / &nbsp;
-[Email](mailto:farhagalab74@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://farhaportofolio.vercel.app">Portfolio</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://eg.linkedin.com/in/farhaghallab">LinkedIn</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:farhagalab74@gmail.com">Email</a>
+</p>
 
 <br>
 
----
-
 ### 01 / ABOUT
 
-I'm a Full-Stack Developer based in Alexandria, Egypt.
+I'm a Full-Stack Developer based in Alexandria, Egypt, building web applications from backend architecture to responsive frontend experiences.
 
-I build web applications end to end — designing APIs, working with databases, developing responsive interfaces, and deploying software.
+My core stack is **Python, Django REST Framework, PostgreSQL, React, and TypeScript**.
 
-My focus is on creating practical, maintainable products that solve real problems.
+I focus on developing practical, maintainable software — from designing APIs and database models to building interfaces and deploying applications.
 
 <br>
 
@@ -32,7 +27,7 @@ My focus is on creating practical, maintainable products that solve real problem
 
 **01 — REAL ESTATE SALES CRM**
 
-Full-stack platform for managing leads, properties, tasks, viewings, and sales workflows.
+A full-stack platform for managing real estate leads, properties, tasks, viewings, and sales workflows.
 
 `React` `TypeScript` `Django REST Framework` `PostgreSQL`
 
@@ -42,7 +37,7 @@ Full-stack platform for managing leads, properties, tasks, viewings, and sales w
 
 **02 — WEBSOCKET CONTROL PANEL**
 
-Real-time monitoring interface with WebSocket lifecycle management, event filtering, and automated tests.
+A real-time monitoring application with WebSocket connection management, live event processing, filtering, and automated tests.
 
 `React` `TypeScript` `WebSocket` `Vitest`
 
@@ -52,11 +47,11 @@ Real-time monitoring interface with WebSocket lifecycle management, event filter
 
 **03 — FATOORA CONNECT**
 
-Independent SaaS project focused on e-invoicing integrations and backend-driven workflows.
+An independently developed SaaS project focused on e-invoicing integrations and backend-driven workflows.
 
 `API Architecture` `Background Processing` `Full-Stack Development`
 
-Private project. Technical details available on request.
+*Private project — selected technical details available on request.*
 
 <br>
 
@@ -73,8 +68,8 @@ Private project. Technical details available on request.
 
 ### 04 / CURRENT FOCUS
 
-- Building full-stack SaaS products
-- Backend architecture and API design
+- Full-stack SaaS development
+- Backend architecture and REST API design
 - Real-time systems and automated testing
 - Deployment and production reliability
 
@@ -82,15 +77,14 @@ Private project. Technical details available on request.
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>LET'S BUILD SOMETHING USEFUL.</strong>
+</p>
 
-**LET'S BUILD SOMETHING USEFUL.**
+<p align="center">
+  Open to Full-Stack, Python/Django Backend, and React Frontend opportunities.
+</p>
 
-Open to Full-Stack, Python/Django Backend, and React Frontend opportunities.
-
-Alexandria, Egypt · Remote-friendly
-
-[Portfolio](https://farhaportofolio.vercel.app) &nbsp; / &nbsp;
-[LinkedIn](https://eg.linkedin.com/in/farhaghallab)
-
-</div>
+<p align="center">
+  Alexandria, Egypt · Open to remote opportunities
+</p>
