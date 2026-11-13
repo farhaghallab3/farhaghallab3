@@ -1,88 +1,97 @@
 
-<h1 align="center">Hi, I'm Farha Ghallab 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer | Python · Django · React · TypeScript</h3>
+# Farha Ghallab
 
-<p align="center">
-  Building practical web applications, reliable APIs, and thoughtful user experiences.
-</p>
+**FULL-STACK SOFTWARE DEVELOPER**
 
-<p align="center">
-  <a href="https://farhaportofolio.vercel.app">Portfolio</a> •
-  <a href="https://eg.linkedin.com/in/farhaghallab">LinkedIn</a> •
-  <a href="mailto:farhagalab74@gmail.com">Email</a>
-</p>
+Building software that works — from backend systems to modern web experiences.
+
+`Python` &nbsp; `Django` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `PostgreSQL`
+
+[Portfolio](https://farhaportofolio.vercel.app) &nbsp; / &nbsp;
+[LinkedIn](https://eg.linkedin.com/in/farhaghallab) &nbsp; / &nbsp;
+[Email](mailto:farhagalab74@gmail.com)
+
+</div>
+
+<br>
 
 ---
 
-### 👩‍💻 About Me
+### 01 / ABOUT
 
-I'm a Full-Stack Developer based in Alexandria, Egypt. I build database-driven web applications, REST APIs, and responsive interfaces.
+I'm a Full-Stack Developer based in Alexandria, Egypt.
 
-My primary stack is **Python, Django REST Framework, PostgreSQL, React, and TypeScript**.
+I build web applications end to end — designing APIs, working with databases, developing responsive interfaces, and deploying software.
 
-I enjoy connecting frontend and backend systems and taking software from implementation through deployment.
+My focus is on creating practical, maintainable products that solve real problems.
 
-### 🛠️ Tech Stack
+<br>
 
-**Backend & Databases**
+### 02 / SELECTED WORK
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+**01 — REAL ESTATE SALES CRM**
 
-**Frontend**
+Full-stack platform for managing leads, properties, tasks, viewings, and sales workflows.
 
-![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+`React` `TypeScript` `Django REST Framework` `PostgreSQL`
 
-**Tools & Infrastructure**
+[Explore repository](https://github.com/farhaghallab3/real-estate-sales-crm)
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+---
 
-### 🚀 Selected Projects
+**02 — WEBSOCKET CONTROL PANEL**
 
-#### 🏡 Real Estate Sales CRM
+Real-time monitoring interface with WebSocket lifecycle management, event filtering, and automated tests.
 
-A full-stack CRM for managing real estate leads, properties, tasks, viewings, and sales workflows.
+`React` `TypeScript` `WebSocket` `Vitest`
 
-**Stack:** React · TypeScript · Django REST Framework · PostgreSQL
+[Explore repository](https://github.com/farhaghallab3/WebSocket-Control-Panel)
 
-[View Repository](https://github.com/farhaghallab3/real-estate-sales-crm)
+---
 
-#### ⚡ WebSocket Control Panel & Real-Time Events Viewer
+**03 — FATOORA CONNECT**
 
-A responsive real-time monitoring interface featuring WebSocket connection management, live messages, event filtering, and automated tests.
+Independent SaaS project focused on e-invoicing integrations and backend-driven workflows.
 
-**Stack:** React · TypeScript · WebSocket · Vitest
+`API Architecture` `Background Processing` `Full-Stack Development`
 
-[View Repository](https://github.com/farhaghallab3/WebSocket-Control-Panel)
+Private project. Technical details available on request.
 
-#### 🧾 Fatoora Connect
+<br>
 
-An independently developed SaaS project focused on e-invoicing integrations and backend-driven workflows.
+### 03 / TECHNOLOGIES
 
-**Focus:** API design · Background processing · Full-stack development
+| Backend | Frontend | Infrastructure |
+| :--- | :--- | :--- |
+| Python | React | Docker |
+| Django / DRF | Next.js | Linux |
+| PostgreSQL | TypeScript | Nginx |
+| REST APIs | Tailwind CSS | Git |
 
-*Private project — selected technical details available on request.*
+<br>
 
-### 🎯 Current Interests
+### 04 / CURRENT FOCUS
 
-- Backend architecture and REST API design
-- SaaS products and business automation
-- Real-time applications and automated testing
+- Building full-stack SaaS products
+- Backend architecture and API design
+- Real-time systems and automated testing
 - Deployment and production reliability
 
-### 🤝 Let's Connect
+<br>
 
-I'm open to opportunities in **Full-Stack Development, Python/Django Backend, and React Frontend**, as well as collaboration on interesting software projects.
+---
 
-📍 Alexandria, Egypt · Open to remote opportunities
+<div align="center">
 
-[Portfolio](https://farhaportofolio.vercel.app) · [LinkedIn](https://eg.linkedin.com/in/farhaghallab)
+**LET'S BUILD SOMETHING USEFUL.**
+
+Open to Full-Stack, Python/Django Backend, and React Frontend opportunities.
+
+Alexandria, Egypt · Remote-friendly
+
+[Portfolio](https://farhaportofolio.vercel.app) &nbsp; / &nbsp;
+[LinkedIn](https://eg.linkedin.com/in/farhaghallab)
+
+</div>
