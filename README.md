@@ -1,4 +1,6 @@
-![Farha Ghallab — Full-Stack Developer](./assets/github-header.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farhaghallab3/farhaghallab3/main/assets/github-header.svg" alt="Farha Ghallab — Full-Stack Developer" width="100%" />
+</p>
 <div align="center">
 
 # Farha Ghallab
