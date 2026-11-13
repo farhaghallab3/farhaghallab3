@@ -1,61 +1,88 @@
-<h1 align="center">Hi 👋, I'm Farha Ghallab</h1>
-<h3 align="center">Junior Software Developer | Graduate of 2024</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47b4ie392g81wcml079tsl0tybz9ynmlfn46ox1f14&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" alt="coding gif" />
-</div>
+<h1 align="center">Hi, I'm Farha Ghallab 👋</h1>
 
+<h3 align="center">Full-Stack Developer | Python · Django · React · TypeScript</h3>
 
+<p align="center">
+  Building practical web applications, reliable APIs, and thoughtful user experiences.
+</p>
 
-### 🚀 About Me
+<p align="center">
+  <a href="https://farhaportofolio.vercel.app">Portfolio</a> •
+  <a href="https://eg.linkedin.com/in/farhaghallab">LinkedIn</a> •
+  <a href="mailto:farhagalab74@gmail.com">Email</a>
+</p>
 
-- 🌟 Passionate about building user-friendly applications.
-- 🌍 Exploring **Flutter**, **web**, and backend technologies.
-- 📚 Always learning and growing as a software developer.
+---
 
+### 👩‍💻 About Me
 
+I'm a Full-Stack Developer based in Alexandria, Egypt. I build database-driven web applications, REST APIs, and responsive interfaces.
 
-### 📊 GitHub Stats
+My primary stack is **Python, Django REST Framework, PostgreSQL, React, and TypeScript**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhaghallab3&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaghallab3&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
+I enjoy connecting frontend and backend systems and taking software from implementation through deployment.
 
+### 🛠️ Tech Stack
 
+**Backend & Databases**
 
-### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-</div>
+**Frontend**
 
+![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+**Tools & Infrastructure**
 
-### 🌐 Connect with Me
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/farha-ghallab-602575289/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/farhaghallab/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
-  <a href="mailto:farhagalab74@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-  </a>
-</div>
+### 🚀 Selected Projects
 
+#### 🏡 Real Estate Sales CRM
 
+A full-stack CRM for managing real estate leads, properties, tasks, viewings, and sales workflows.
 
-### ⚡ Fun Fact
-I'm always up for learning new tools and frameworks, and I love combining technology with creativity to build amazing things! 🚀
+**Stack:** React · TypeScript · Django REST Framework · PostgreSQL
+
+[View Repository](https://github.com/farhaghallab3/real-estate-sales-crm)
+
+#### ⚡ WebSocket Control Panel & Real-Time Events Viewer
+
+A responsive real-time monitoring interface featuring WebSocket connection management, live messages, event filtering, and automated tests.
+
+**Stack:** React · TypeScript · WebSocket · Vitest
+
+[View Repository](https://github.com/farhaghallab3/WebSocket-Control-Panel)
+
+#### 🧾 Fatoora Connect
+
+An independently developed SaaS project focused on e-invoicing integrations and backend-driven workflows.
+
+**Focus:** API design · Background processing · Full-stack development
+
+*Private project — selected technical details available on request.*
+
+### 🎯 Current Interests
+
+- Backend architecture and REST API design
+- SaaS products and business automation
+- Real-time applications and automated testing
+- Deployment and production reliability
+
+### 🤝 Let's Connect
+
+I'm open to opportunities in **Full-Stack Development, Python/Django Backend, and React Frontend**, as well as collaboration on interesting software projects.
+
+📍 Alexandria, Egypt · Open to remote opportunities
+
+[Portfolio](https://farhaportofolio.vercel.app) · [LinkedIn](https://eg.linkedin.com/in/farhaghallab)
