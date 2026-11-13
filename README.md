@@ -1,4 +1,4 @@
-
+![Farha Ghallab — Full-Stack Developer](./assets/github-header.svg)
 <div align="center">
 
 # Farha Ghallab
