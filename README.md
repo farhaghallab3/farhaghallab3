@@ -3,9 +3,6 @@
 </p>
 <div align="center">
 
-# Farha Ghallab
-
-**FULL-STACK SOFTWARE DEVELOPER**
 
 Building software that works — from backend systems to modern web experiences.
 
